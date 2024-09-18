@@ -45,4 +45,4 @@ Este sistema representa uma ferramenta poderosa para o treinamento de residentes
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/KauePastori/seurepositorio.git
+   git clone https://github.com/KauePastori/Simulation-python.git
